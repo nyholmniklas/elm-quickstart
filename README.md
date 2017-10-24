@@ -1,24 +1,19 @@
 elm-quickstart
 ===========
 
-About
--------
-
 Clone or copy this project to get a starting point for your Elm web app.
-
 
 Prerequisites
 -------
 
 You must have Node.js installed.
 
-
 Setup
 -------
 
 #### Run dev server
 
-In project root and run
+In project root run
 
 ```
 elm-reactor
