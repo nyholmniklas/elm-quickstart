@@ -24,4 +24,4 @@ In project root and run
 elm-reactor
 ```
 
-You can now navigate to http://localhost:8000/src/App.elm[http://localhost:8000/src/App.elm]
+You can now navigate to http://localhost:8000/src/App.elm
