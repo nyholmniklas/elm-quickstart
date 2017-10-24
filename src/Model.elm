@@ -2,8 +2,7 @@ module Model exposing (..)
 
 
 type alias Model =
-    { greeting : String
-    }
+    { greeting : String }
 
 
 model : Model
